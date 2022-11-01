@@ -19,3 +19,6 @@ E pegar o ip dá máquina linux
 
 - sudo chmod 600 Ubuntu-AWS.pem ubuntu@34.207.109.48 - Dando as permissões necessárias para acesso ao servidor via ubuntu
 - Excluir uma instância na AWS sempre que não desejar usar para não ter combranças.
+- pwd mostra onde eu estou no sistema de arquivos
+-/ diretório raiz
+
